@@ -1,2 +1,2 @@
 # hello-word
-this is a new work.hello
+new work.hello
