@@ -1,2 +1,2 @@
 # hello-word
-new work.hello
+new work.hello world
